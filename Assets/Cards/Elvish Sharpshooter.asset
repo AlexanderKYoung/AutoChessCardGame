@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33a076109ba139d44962a2439493ef01, type: 3}
+  m_Name: Elvish Sharpshooter
+  m_EditorClassIdentifier: 
+  id: 8
+  card: {fileID: 11400000}
+  name: Elvish Sharpshooter
+  description: '<b>Warcry</b>: Deal 3 damage divided randomly to enemy units'
+  type: Elf Druid
+  faction: Myrwinn
+  faction2: 
+  cost: 1
+  strength: 1
+  health: 1
+  artwork: {fileID: 0}
+  frame: {fileID: 21300000, guid: 19c254f429c9c3c4f8ab88145e229034, type: 3}
+  reach: {fileID: 21300000, guid: 66fad4fba014f33419b295c7062bf860, type: 3}
+  factionDisp: {fileID: 21300000, guid: 95e1cb5db65f5a447afdaa0a5700dd3c, type: 3}
+  faction2Disp: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  token: {fileID: 0}
